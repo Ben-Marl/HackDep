@@ -1,0 +1,10 @@
+pymongo
+werkzeug.security 
+user
+flask
+flask_login
+numpy
+yfinance
+pandas
+matplotlib.pyplot
+scipy.optimize
